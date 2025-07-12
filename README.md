@@ -19,7 +19,7 @@ This is a Telegram bot that provides two main functions:
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/your-repository.git
+    git clone https://github.com/NIZBAN786/Pwgen.git
     ```
 2.  **Install the dependencies:**
     ```bash
