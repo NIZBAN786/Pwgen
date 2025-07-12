@@ -2,3 +2,4 @@ python-telegram-bot>=20.0
 zxcvbn>=4.4.28
 nltk>=3.6.0
 python-dotenv>=0.19.0
+flask>=2.0.0
