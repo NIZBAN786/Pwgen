@@ -9,7 +9,7 @@ def index():
 
 def run_flask():
     """Run the Flask application."""
-    app.run(host='0.0.0.0', port=5000, debug=False)
+    app.run(host='0.0.0.0', port=1100, debug=False)
 
 if __name__ == '__main__':
     run_flask() 
